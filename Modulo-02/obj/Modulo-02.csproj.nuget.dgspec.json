@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-01\\Modulo-01.csproj": {}
+    "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-02\\Modulo-02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-01\\Modulo-01.csproj": {
+    "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-02\\Modulo-02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-01\\Modulo-01.csproj",
-        "projectName": "Modulo-01",
-        "projectPath": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-01\\Modulo-01.csproj",
+        "projectUniqueName": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-02\\Modulo-02.csproj",
+        "projectName": "Modulo-02",
+        "projectPath": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-02\\Modulo-02.csproj",
         "packagesPath": "C:\\Users\\Marcel Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-01\\obj\\",
+        "outputPath": "C:\\Users\\Marcel Gustavo\\Documents\\GitHub\\MouraTech-DotNet\\Modulo-02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcel Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
