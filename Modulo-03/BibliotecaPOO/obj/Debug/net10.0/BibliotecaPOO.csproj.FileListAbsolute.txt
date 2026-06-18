@@ -1,0 +1,15 @@
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\bin\Debug\net10.0\BibliotecaPOO.exe
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\bin\Debug\net10.0\BibliotecaPOO.deps.json
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\bin\Debug\net10.0\BibliotecaPOO.runtimeconfig.json
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\bin\Debug\net10.0\BibliotecaPOO.dll
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\bin\Debug\net10.0\BibliotecaPOO.pdb
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.AssemblyInfoInputs.cache
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.AssemblyInfo.cs
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.sourcelink.json
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.dll
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\refint\BibliotecaPOO.dll
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.pdb
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\BibliotecaPOO.genruntimeconfig.cache
+C:\Users\Marcel Gustavo\Documents\GitHub\MouraTech-DotNet\Modulo-03\BibliotecaPOO\obj\Debug\net10.0\ref\BibliotecaPOO.dll
